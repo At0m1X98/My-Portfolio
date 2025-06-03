@@ -1,7 +1,5 @@
-import React from 'react'
 import {motion} from 'framer-motion'
 import PageWrapper from '../components/PaperWrapper'
-import { TextSearch } from 'lucide-react';
 
 type Project = {
 	id: number;

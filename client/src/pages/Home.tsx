@@ -1,6 +1,5 @@
-import React from 'react'
 import { motion } from 'framer-motion';
-import { Github, Linkedin, Mail, Download } from 'lucide-react';
+import { Github, Linkedin, Mail } from 'lucide-react';
 import PageWrapper from '../components/PaperWrapper';
 
 const Home = () => {
