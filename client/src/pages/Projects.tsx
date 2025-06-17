@@ -30,7 +30,7 @@ const projects: Project[] = [
 	{
 		id: 3,
 		title: 'MoLev',
-		description: "Tool for creating manual orders for Levi's company",
+		description: "My fist app created internaly for retail company. It is a tool for creating manual orders",
 		techStack: ['React', 'JavaScript', 'CSS'],
 		repoLink: 'https://github.com/At0m1X98/manualorder-levis',
 		liveLink: 'https://molev.netlify.app',
