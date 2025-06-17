@@ -16,8 +16,8 @@ const projects: Project[] = [
 		title: 'Protfolio Website',
 		description: 'A personal portfolio built with React, TypeScript and Tailwind CSS',
 		techStack: ['React', 'TypeScript', 'Tailwind'],
-		repoLink: '',
-		liveLink: '',
+		repoLink: 'https://github.com/At0m1X98/My-Portfolio',
+		liveLink: 'https://tomashandzel.netlify.app',
 	},
 	{
 		id: 2,
@@ -25,7 +25,7 @@ const projects: Project[] = [
 		description: 'Informative website created for Public Advisors company',
 		techStack: ['React', 'TypeScript', 'Tailwind'],
 		repoLink: 'https://github.com/At0m1X98/public-advisors',
-		liveLink: 'public-advisors.netlify.app',
+		liveLink: 'https://public-advisors.netlify.app',
 	},
 	{
 		id: 3,
@@ -49,7 +49,7 @@ const projects: Project[] = [
 		description: 'Web application for searching recipes by ingredient using themealdb API',
 		techStack: ['React', 'JavaScript', 'CSS'],
 		repoLink: 'https://github.com/At0m1X98/recipe-finder',
-		liveLink: 'recipes-finder-th.netlify.app',
+		liveLink: '',
 	}
 ]
 
